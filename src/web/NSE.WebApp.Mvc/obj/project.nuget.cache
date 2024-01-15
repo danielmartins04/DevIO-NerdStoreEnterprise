@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bNAoecVLxsVqe9F2xgcHQt8CwGfYRQu9JpbDCLFkpdRiIXaEMJwtKv4BrVfCMMRTbRUV3hdeW53pQG9lW5HyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani Martins\\Desktop\\DevIO\\NerdStoreEnterpise\\src\\web\\NSE.WebApp.Mvc\\NSE.WebApp.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani Martins\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
